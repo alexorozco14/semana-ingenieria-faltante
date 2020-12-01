@@ -1,0 +1,153 @@
+<html>
+<head></head>
+<body>
+<h1> Informacion General: APP Programacion III </h1>
+<div>
+<ul>
+  <li><strong>VITIMALZ</strong></li><br> 
+  
+  <button (click)="Imagenes()"> Mas informacion</button>
+  
+  <p>Manizales, abr. 03 de 2014 - Agencia de Noticias Unicersidad Nacional-<br> La innovación busca explicar conceptos sobre verdad, <br>
+    Un juego que permite a las víctimas del conflicto armado conocer<br> justicia, prevención, protección, asistencia, atención, <br> 
+    sobre la Ley 1448 del 2011<br>                                       reparación integral y participación. <br>
+    es la nueva creación de Anglus, <br>
+    microempresa del Parque de Innovación Empresarial de la U.N. en Manizales.<br>
+    El juego, denominado Vitimalz, contiene toda la información<br>
+    sobre la ley que estipula los deberes y derechos que tienen las víctimas para <br>
+    la restitución
+     de beneficios que otorga el Gobierno nacional.</p>
+     <img src="imagenes-programacion-APP/descarga.jpg">
+     <video controls="" width="400" height="185">
+      <source src="imagenes-programacion-APP\videos/1.mp4" type="video/mp4">
+      </video>
+<br>
+<br>
+<br>
+<br>
+
+  <li><strong>SIN ABUSO</strong></li>
+  <h1>NUESTRA HISTORIA</h1>
+  <p>Fundación Para la Confianza es una organización sin fines de lucro,<br> 
+    creada el año 2010 por James Hamilton, Juan Carlos Cruz,  <br>  
+    Juan Pablo Hermosilla y José Andrés Murillo, <br> 
+    con la misión de luchar contra el abuso infantil y <br> 
+    acompañar y orientar a quienes han sido víctimas de estos delitos. <button (click)="Imagenes()"> Galeria</button><button (click)="Imagenes()"> Informate</button><button (click)="Imagenes()"> Conocenos</button><button (click)="Imagenes()"> Hazte Socio</button></p>
+ 
+  <li><strong>MAXTURBO</strong></li>
+  <p> </p><h1> <strong>Informacion sacada de Google Play</strong> </h1> 
+    Sacude la diversión con #Maxturbo, un juego inspirado en el capítulo con el mismo nombre de la serie animada zoOtecnia <br>
+    #Noesparaniños Chanchón se encuentra en el baño, jugando con #MaxTurbo... <br>
+    Ayúdalo a que su "disparo" llegue tan lejos como sea posible agitando tu dispositivo (Móvil o tablet)<br>
+    lo más rápido que puedas para aumentar la fuerza de su disparo, y luego esquiva los obstáculos inclinando tu móvil hacia los lados...<br>
+    Recuerda que debes llegar tan lejos como puedas y recoger la mayor cantidad posible de monedas en el camino. <br>
+    No olvides compartir tus resultados en tus redes sociales y retar a tus amigos... <br><p></p>
+    <h1><strong>De Interes</strong></h1>
+    <p><em>Para conocer más:
+      www.zootecniatv.com <img src="imagenes-programacion-APP/5.jpg"><img src="imagenes-programacion-APP/9.jpg"><br>
+      www.senalcolombiatv/zootecnia<br>
+      www.facebook.com/zootecnia123 <br>
+      www.twitter.com/zootecnia123 <img src="imagenes-programacion-APP/8.jpg"><br>
+      www.instagram.com/zootecniatv<br>
+      <br>
+      <strong>Conoce sobre los realizadores:</strong><br>
+      www.estudiosanimeco.com<br>
+      www.anglus.co</em></p>
+      <br>
+      <br>
+  <li><strong>FNA</strong></li>
+  <br>
+  <br>
+  <img src="imagenes-programacion-APP/Captura.PNG">
+  <br>
+  <br>
+  <video controls="" width="400" height="185">
+  <source src="imagenes-programacion-APP\videos/2.mp4" type="video/mp4">
+    </video>
+    <br>
+    <br>
+    <br>
+    <br>
+  <li><strong>JUEGAULA</strong></li>
+  <p>Juegaula es una plataforma que pone al alcance de las Instituciones Educativas los mejores juegos, <br>
+    aplicaciones y contenidos digitales educativos. <strong>INFORMACION DETALLADA EN FACEBOOK</strong><br>
+    <img src="imagenes-programacion-APP/12.png">
+  </p>
+  <br>
+  <br>
+  <br>
+  <li><strong>Vivelab ATLANTICO</strong></li>
+  <p>Los Vivelabs, son una iniciativa nacional para incentivar el desarrollo <br>
+    de contenidos digitales a través de la implementación de una plataforma <br>
+    de última tecnología, de fácil acceso para emprendedores de la región.<br>
+    El proyecto Vivelab Atlántico fue abanderado por el Ministerio de las <br>
+    Tecnologías de la Información y las Comunicaciones de Colombia, MinTIC,<br> 
+    en el marco del Plan Vive Digital Regional, con el apoyo de Colciencias.<br> 
+    Mediante Convocatoria pública 585 de 2012, la Universidad del Atlántico. <br>
+    Desde entonces, el Vivelab Atlántico es operado por la Universidad del Atlántico, <br>
+    a través de la Vicerrectoría de Investigaciones, Extensión Y Proyección Social. <br> 
+    Se encuentra ubicado al interior de la Universidad, en la sede norte, abierto <br> 
+    al servicio de la comunidad en general.<br>
+    <br>
+    </p><h3><strong>Servicios:</strong></h3><strong> </strong>
+Capacitaciones (Talleres, cursos y diplomados).<br>
+Arrendamiento de Sala de trabajo.<br>
+Alquiler de espacios de formación especializados. <br>
+Servicios de laboratorio de ingeniería de sonido y video.<br>
+Servicios creativos para animación, videojuegos y desarrollo web &amp; móvil<br>
+Servicios de Coworking Space, Innovation Lab, y Colocation.<br>
+Servicios de E learning.<br>
+<br>
+<strong>Redes sociales: </strong><br>
+<em>Instagram: https://www.instagram.com/vivelabatlantico/ <br>
+Facebook: https://www.facebook.com/ViveLabAtco/ <br>
+Twitter: https://twitter.com/ViveLabAtco <br></em>
+<br>
+<br>
+<button (click)="Imagenes()"> Pagina Principal</button>
+  <p></p>
+  <br>
+
+  <li><strong>Embaraza2</strong></li>
+  <p><em><strong>Embaraza2 es un juego para mayores de 12 años de edad, con retos y habilidades <br>
+    y termina cuando quede un último jugador, aquel que no resultó ni embarazado ni con una enfermedad<br>
+    de transmisión sexual.<br>
+    Tiene una baraja de 55 cartas de diferentes tipos, entre ellas, cóndón, día después, cortejo, no es no,<br>
+    ETS (enfermedades de transmisión sexual). Para jugarlo se necesita de dos a cinco jugadores <br>
+    y cada partida puede tardar de 10 a 20 minutos.<br>
+    “Lo que pretendemos es reducir los 408 nacimientos diarios que se dan en Colombia entre mujeres <br>
+    de 10 y 19 años de edad. Por eso fue pensado para los jóvenes de las instituciones educativas del país<br>
+    y también para los estudiantes de primer semestre de las universidades”, manifestó Ángelo Quintero, <br>
+    administrador de empresas de la Universidad Nacional de Colombia (U.N.) Sede Manizales. <br>
+    <br>
+    <strong>Algunas reglas: </strong>
+    <br>
+    <br>
+    Cada jugador recibe cinco cartas, entre ellas una de preservativo o condón, que no se deben dejar ver por los otros participantes.<br>
+    El juego continúa en el sentido de las manecillas del reloj. El competidor que inicia jugará una carta de su mano y debe seguir <br>
+    las instrucciones que allí se indican. El jugador termina su turno arrastrando una carta, pero cuando le sale embarazo o ETS <br>
+    (enfermedades de transmisión sexual) termina su participación en la partida y queda eliminado, a no ser que tenga un preservativo o condón que lo salve.</strong></em></p>
+    <img src="imagenes-programacion-APP/40.jpg">
+    <img src="imagenes-programacion-APP/41.jpg">
+    <br>
+    <br>
+  <li><text-center>Trainbox</text-center></li>
+  <p><em><text align-center="">Sunnyvale, CA - Playvox anunció el jueves 13 de febrero de 2020 la adquisición de Trainbox, una empresa de aprendizaje interactivo. <br>
+    “Trainbox es un gran equipo con un producto robusto que aporta innovación y nueva funcionalidad a las aplicaciones de capacitación <br>
+    y aprendizaje de Playvox Agent Optimization Suite ”, dijo Oscar Giraldo, fundador y director ejecutivo de Playvox. <br>
+    "Estamos muy contentos de dar la bienvenida al equipo de Trainbox a la familia Playvox y de extender estas capacidades a nuestros clientes".<br>
+    Con la adquisición de Trainbox, Playvox potenciará y mejorará la gamificación, la interactividad y la personalización en la plataforma de la empresa. <br>
+    Al hacerlo, hará que las aplicaciones de aprendizaje y capacitación sean aún más dinámicas, efectivas e interactivas para los agentes de servicio al cliente <br>
+    de todo el mundo. Playvox ofrecerá ahora un sistema de aprendizaje de última generación. Aunque es la primera adquisición de Playvox, Giraldo dijo que la compañía <br>
+    siempre está buscando formas de mejorar la plataforma Playvox y brindar a los clientes el mayor valor posible para optimizar las operaciones de servicio al cliente <br>
+    centradas en el agente. Giraldo dijo que el valor puede presentarse de dos formas: orgánico y mediante adquisición.</text></em><br></p> <button (click)="Imagenes()"> informacion Detallada</button>
+    <img src="imagenes-programacion-APP/a.png">
+    <img src="imagenes-programacion-APP/b.png">
+    <img src="imagenes-programacion-APP/c.png">
+    <img src="imagenes-programacion-APP/d.jpg">
+    <img src="imagenes-programacion-APP/z.png">
+    <img src="imagenes-programacion-APP/f.jpg">
+</ul>
+</div>
+</body>
+</html>
